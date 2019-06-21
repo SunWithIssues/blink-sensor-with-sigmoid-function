@@ -6,7 +6,7 @@ The sigmoid function is a bounded, real function. Its bounded by two horizontal 
 
 The function is represented by the formula:
 
-   ![formula](https://github.com/SunWithIssues/blink-sensor-with-sigmoid-function/blob/master/images/sigmoid_function.PNG)
+   ![formula](https://github.com/SunWithIssues/blink-sensor-with-sigmoid-function/blob/master/images/sigmoid_function.gif)
 
 ## Why the Sigmoid Function?
 In simple terms, since the function both has an upperbound and a lowerbound asymptote, we can have the speed at which the LEDs blink never go too fast or too slow. (Basically, I know that flashing lights are bad for the eye and I am impatient. Hence, the use for the function.)
