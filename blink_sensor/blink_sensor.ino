@@ -31,7 +31,7 @@ void loop() {
   // Main code here, runs repeatedly:
   
   
-  measure = analogRead(A7);    // Measures photocell value
+  measure = analogRead(photo);    // Measures photocell value
 
   // To find the seconds, the Sigmoid function was used.
      // The seconds should not be greater than 2000 ms or
